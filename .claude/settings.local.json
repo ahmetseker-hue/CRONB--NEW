@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__21st-magic__21st_magic_component_inspiration",
+      "mcp__plugin_context7_context7__resolve-library-id",
+      "mcp__plugin_context7_context7__query-docs",
+      "mcp__plugin_playwright_playwright__browser_take_screenshot",
+      "mcp__plugin_playwright_playwright__browser_navigate",
+      "Bash(lsof:*)",
+      "mcp__plugin_playwright_playwright__browser_wait_for",
+      "mcp__21st-magic__21st_magic_component_builder",
+      "mcp__21st-magic__21st_magic_component_refiner",
+      "Bash(npm run dev:*)"
+    ]
+  }
+}

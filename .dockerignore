@@ -1,0 +1,23 @@
+# Node bağımlılıkları
+node_modules
+
+# Git
+.git
+.gitignore
+
+# Build çıktıları
+**/dist
+**/build
+
+# Log dosyaları
+*.log
+
+# Development dosyaları
+**/.env
+**/.env.*
+**/.vscode
+**/.idea
+**/.DS_Store
+
+# Test ve coverage
+**/coverage
